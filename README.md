@@ -6,7 +6,14 @@ Projeto Open Source desenvolvido na Next Level Week da Rocketseat utilizando as 
 
 A aplicação tem como objetivo disponibilizar informações sobre pontos de coletas nos diferentes estados e municípios. A versão Web desta aplicação permite que o usuário seja capaz de cadastrar novos pontos de coleta que serão visíveis e acessíveis na versão mobile.
 
-<h2><strong>:computer: Tecnologias*</strong></h2>
+<h3>:computer:Versão Web</h3>
+<img src="Ecoleta.gif" width="500" height="350"/> 
+
+<h3>:iphone:Versão Mobile</h3>
+<img src="Ecoleta-mobile.gif" width="300" height="600"/>
+
+
+<h2><strong>:satellite: Tecnologias*</strong></h2>
 <h3>Versão Web (React + TypeScript)</h3>
 <li>Axios</li>
 <li>Leaflet</li>
